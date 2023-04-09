@@ -48,8 +48,12 @@ font-family: 'Courier New', Courier, monospace;
 }
 
 .steve h1 {
-    padding-bottom: 0px;
+    margin-bottom: 0px;
     color: red;
+}
+
+.steve p {
+    margin: 10px;
 }
 
 nav {
