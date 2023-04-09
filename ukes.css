@@ -4,6 +4,7 @@ body {
 
 .infoPage {
     font-family:'Courier New', Courier, monospace;
+    padding-left: 20px;
 }
 
 .infoPage h1 {
@@ -26,6 +27,12 @@ font-family: 'Courier New', Courier, monospace;
 
 .infoPage ul {
     padding-bottom: 10px;
+}
+
+.blueHead {
+    color: blue;
+    font-weight: bold;
+
 }
 
 .steve  {
